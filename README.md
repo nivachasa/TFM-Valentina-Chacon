@@ -21,8 +21,7 @@ subgrupos.
 
 El repositorio incluye una copia **sin modificar** del conjunto de datos
 *Predict Students' Dropout and Academic Success* (UCI Machine Learning
-Repository, id 697), publicado bajo licencia
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Repository, id 697).
 
 Realinho, V., Vieira Martins, M., Machado, J., y Baptista, L. (2021).
 *Predict Students' Dropout and Academic Success* [Conjunto de datos]. UCI
